@@ -1,0 +1,32 @@
+html {
+	height: 96vh;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	border: 2vh groove green;
+	background-color: rgb(245, 245, 220);
+}
+
+body {
+	margin: 0;
+	padding: 2vh 2vw;
+	background-color: rgb(230, 230, 205);
+	border: 2vh groove green;
+	border-top: none;
+	border-bottom: none;
+}
+
+table {
+	text-align: left;
+	width: 100%;
+	border: 1px solid green;
+	border-collapse: collapse;
+}
+
+td,
+th {
+	margin: 0;
+	padding: 0;
+	border: 1px solid green;
+}
