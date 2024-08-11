@@ -6,6 +6,8 @@
 
 ## Ingredients
 
+### Leather
+
 * 1 lb Fresh Fruit
 * 1 tsp Lemon Juice
 * 1 tbsp sugar

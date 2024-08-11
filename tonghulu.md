@@ -6,10 +6,15 @@
 
 ## Ingredients
 
-* Misc fruits
+### Syrup
+
 * 3/4 cup sugar
 * 1/3 cup water
 * 2 tbsp light corn syrup
+
+### Skewers
+
+* Misc fruits(3 bitesize pieces per skewer)
 
 ## Steps
 

@@ -6,6 +6,8 @@
 
 ## Ingredients
 
+### Dough
+
 * 280 g of flour (2 1/4 cups)
 * 7 g baking powder (1 1/2 tsp)
 * Big pinch of salt
