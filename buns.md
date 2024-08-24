@@ -14,7 +14,7 @@
 * 85 g honey (1/4 cup)
 * 1 egg beaten
 * 6 g salt (1 tsp)
-* 420 g flour (3 1/2 cup) **Try more next time**
+* 420 g flour
 
 ### Egg Wash
 
