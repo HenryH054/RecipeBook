@@ -8,7 +8,7 @@
 
 ### Dough
 
-* 295 g flour
+* 275 g flour
 * 10 grams instant dry yeast
 * 8 grams sugar (2 tsp)
 * 5 g salt
@@ -19,7 +19,7 @@
 ## Steps
 
 1) Mix sugar, water, and yeast together
-2) Mix in flour, olive oil, garlic powder/basil
+2) Mix in flour, salt, olive oil, garlic powder/basil
 3) Stir until starts to pull away from sides and is slightly sticky
 4) Coat another bowl in oil
 5) Lightly dust hands with flour and form dough into ball
